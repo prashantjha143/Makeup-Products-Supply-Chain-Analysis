@@ -24,7 +24,7 @@ pie_chart = px.pie(sales_data,values='Number of products sold',
 pie_chart.update_traces(textposition='inside',textinfo = 'percent+label')
 pie_chart.show()
 ```
-
+file:///C:/Users/admin/Downloads/sales_by_product_type_pie.html
 ### 2. Shipping Carrier Performance
 *   **Carrier B** is responsible for generating the most revenue for the company, indicating its significant role in product distribution.
 *   Coincidentally, **Carrier B** also incurs higher shipping costs, likely due to a larger volume of orders and associated transportation.
